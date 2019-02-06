@@ -9,6 +9,6 @@ Workshop slides, projects and jupyter notebooks for the Medellin 2019 RADA Big D
 
 E.g. if you downloaded the repository to Documents, then it would be:
 
-'''
+```
 cd ~/Documents/medellin-2019
-'''
+```
