@@ -1,10 +1,18 @@
 name: medellin
 
+channels:
+  - conda-forge
+
 dependencies:
   - python=3.6
+  - ipython
+  - shapely
+  - cartopy
   - numpy
   - matplotlib
-  - xarray
   - scikit-learn
   - pandas
   - seaborn
+  - netCDF4
+  - xarray
+  - jupyter
