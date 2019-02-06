@@ -1,4 +1,4 @@
-# medellin-2019
+# Earth Observation Data for Agriculture
 Workshop slides, projects and jupyter notebooks for the Medellin 2019 RADA Big Data Summer School
 
 ## Contents
