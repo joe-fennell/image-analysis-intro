@@ -1,0 +1,10 @@
+name: medellin
+
+dependencies:
+  - python=3.6
+  - numpy
+  - matplotlib
+  - xarray
+  - scikit-learn
+  - pandas
+  - seaborn
