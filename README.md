@@ -22,3 +22,33 @@ For example, if you downloaded the repository to ```Documents```, then it would 
 ```
 cd ~/Documents/medellin-2019
 ```
+
+Once you are in the directory, set up a new environment using the file we provided
+
+```
+conda env create -f medellin.yml
+```
+
+Now whenever you want to run the code, use:
+
+```
+conda activate medellin
+```
+
+to run the environment.
+
+### 4. Download Sentinel 2 Data
+
+NB: You only need to do this if you are planning on working on the agri project.
+
+Pre-processed Sentinel 2 data for the project can be downloaded from https://drive.google.com/file/d/1oSitiedyaYiaElcTfFhvJHUSjJYQQxNU/view?usp=sharing.
+
+Move the data file (```cali_training.nc```) to ```project/geo_data```
+
+### 5. Get started!
+
+Start the environment and launch jupyter notebooks
+```
+conda activate medellin
+jupyter notebook
+```
