@@ -1,4 +1,5 @@
 *.DS_Store
+*.nc
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

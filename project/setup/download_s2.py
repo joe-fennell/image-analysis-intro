@@ -15,6 +15,7 @@ nprods, prods = pipe.submit_query(query)
 #
 pipe.download_and_process(prods)
 
+gs_localmanager.add_tilelist()
 inventory = gs_localmanager.get_product_inventory()
 filtered = {uuid:prod for (uuid,prod) in inventory.items() if prod['platformname']=='Sentinel-2'}
 
