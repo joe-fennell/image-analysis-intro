@@ -69,6 +69,6 @@ jupyter notebook
 ```
 
 ## Authors
-* **[J. Fennell](github.com/joe-fennell)**
-* **[T.M Cantwell](github.com/TMCantwell)**
-* **[A. Aguilar Ariza](github.com/anaguilarar)**
+* **[J. Fennell](https://github.com/joe-fennell/)**
+* **[T.M Cantwell](https://github.com/TMCantwell/)**
+* **[A. Aguilar Ariza](https://github.com/anaguilarar/)**
