@@ -4,7 +4,7 @@ Workshop slides, projects and jupyter notebooks for the Medellin 2019 RADA Big D
 ## Contents
 This repository contains all of the slides, tutorial notebooks and project notebooks for the workshop in Medellin, Colombia (11th - 15th of February 2019).
 ### Tutorials
-[Optical Satellite Imagery](tutorials/1.%20Optical%20satellite%20imagery)
+[Optical Satellite Imagery](tutorials/1.%20Optical%20satellite%20imagery.ipynb)
 
 [Sci-Kit Learn for Image Data](tutorials/2.%20SKLearn%20for%20images.ipynb)
 
