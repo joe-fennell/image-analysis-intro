@@ -4,11 +4,11 @@ Workshop slides, projects and jupyter notebooks for the Medellin 2019 RADA Big D
 ## Contents
 This repository contains all of the slides, tutorial notebooks and project notebooks for the workshop in Medellin, Colombia (11th - 15th of February 2019).
 ### Tutorials
-[Optical Satellite Imagery](tutorials/1.%20Optical%20satellite%20imagery.ipynb)
+1. [Optical Satellite Imagery](tutorials/1.%20Optical%20satellite%20imagery.ipynb)
 
-[Sci-Kit Learn for Image Data](tutorials/2.%20SKLearn%20for%20images.ipynb)
+2. [Sci-Kit Learn for Image Data](tutorials/2.%20SKLearn%20for%20images.ipynb)
 
-[Image Segmentation with Radar Images](tutorials/3.%20Segmenting%20radar%20images.ipynb)
+3. [Image Segmentation with Radar Images](tutorials/3.%20Segmenting%20radar%20images.ipynb)
 
 ### Project
 A group project using remote sensing data is included in this repository. An overview of the research challenge is provided [here](project/Research%20Questions.ipynb) and we have provided a demonstration on how to access the dataset [here](project/The%20Dataset.ipynb)
