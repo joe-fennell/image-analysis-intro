@@ -67,3 +67,8 @@ Start the environment and launch jupyter notebooks
 conda activate medellin
 jupyter notebook
 ```
+
+## Authors
+* **[J. Fennell](github.com/joe-fennell)**
+* **[T.M Cantwell](github.com/TMCantwell)**
+* **[A. Aguilar Ariza](github.com/anaguilarar)**
